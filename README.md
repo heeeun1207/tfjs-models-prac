@@ -13,3 +13,9 @@
 
 - mobilenet.html 결과
   ![result](result.png)
+
+---
+
+### 공식 홈페이지 - 튜토리얼
+
+[TensorFlow.js 설정 및 설치 방법](https://www.tensorflow.org/js/tutorials/setup?hl=ko)
